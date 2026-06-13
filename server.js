@@ -19,6 +19,8 @@ app.get('/', (req, res) => {
     <head>
         <meta charset="UTF-8">
 <meta name="monetag" content="664ae298201a400c170d4db8f5a6cc3f">
+<script src="https://quge5.com/88/tag.min.js" data-zone="249186" async data-cfasync="false"></script>
+
 
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>SARKAR SUBWAY SURFERS</title>
